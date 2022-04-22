@@ -63,14 +63,7 @@ class LoginActivity : AppCompatActivity() {
              }else{
                  Toast.makeText(this, "Failed", Toast.LENGTH_SHORT).show()
              }
-//            if (it != null){
-//                listuserlogin = it
-//                loginAuth(listuserlogin)
 
-//
-//            }else{
-//                Toast.makeText(this, it, Toast.LENGTH_SHORT).show()
-//            }
         })
     }
 
